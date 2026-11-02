@@ -1,5 +1,5 @@
 Linux kernel
-============
+===============================================================================
 
 There are several guides for kernel developers and users. These guides can
 be rendered in a number of formats, like HTML and PDF. Please read
@@ -17,3 +17,10 @@ See Documentation/00-INDEX for a list of what is contained in each file.
 Please read the Documentation/process/changes.rst file, as it contains the
 requirements for building and running the kernel, and information about
 the problems which may result by upgrading your kernel.
+================================================================================
+
+Plain Kernel is forked from ExtremeXT, the author of ExtremeKRNL and ExtremeROM.
+this build is meant for personal use & experimenting with performance for
+Galaxy S20 (x1s,x1slte | G980F).
+
+i'm not responsible for the issues that occurs for using this build.
